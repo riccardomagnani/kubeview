@@ -1,5 +1,5 @@
 name: kubeview
-apiVersion: v2
+apiVersion: v1
 version: 0.1.13
 appVersion: "0.1.13"
 
